@@ -1,0 +1,4 @@
+CPAN_AUTHOR=markov
+inherit perl
+
+DIFF_EXCLUDES="*.ppd"
